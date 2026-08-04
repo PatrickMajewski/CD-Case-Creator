@@ -1,4 +1,5 @@
-# Playlist Cover Designer
+![CD Case Creator](CdCaseCreator.png)
+# CD Case Creator
 
 **Version 1.1.3**
 
@@ -343,7 +344,7 @@ Edit the source file to develop further; ship the self-contained build.
 
 ## Lizenz · License
 
-**CD-Hüllen-Cover-Generator License** — © 2026 Patrick Majewski. Alle Rechte vorbehalten.
+**CD Case Creator License** — © 2026 Patrick Majewski. Alle Rechte vorbehalten.
 
 Nutzung zu privaten, nicht-kommerziellen Zwecken ist gestattet. Weitergabe, Veränderung,
 Einbindung in andere Projekte und kommerzielle Nutzung bedürfen der vorherigen schriftlichen
