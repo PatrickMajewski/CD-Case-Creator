@@ -1,4 +1,3 @@
-![CD Case Creator](CdCaseCreator.png)
 # CD Case Creator
 
 **Version 1.1.3**
