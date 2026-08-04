@@ -1,4 +1,4 @@
-![CD Case Creator](CCCmock.png)
+![CD Case Creator](CCCmocksmall.png)
 # CD Case Creator
 
 **Version 1.1.3**
